@@ -47,7 +47,7 @@ public class Main {
             }
             System.out.println("SUMA:= " + S);
         }else{
-            System.out.println("!!!Dilulu na 0 ne dosvoleno!!!");
+            System.out.println("!!!Dilennya na 0 ne dosvoleno!!!");
         }
 
     }
